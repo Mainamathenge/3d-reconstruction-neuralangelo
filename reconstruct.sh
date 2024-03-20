@@ -1,5 +1,4 @@
-# AUTHOR: Chukwuemeka L. Nkama
-# Date: 1/27/2024
+
 
 # Name of video
 VID=$1

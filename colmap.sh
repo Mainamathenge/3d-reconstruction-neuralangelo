@@ -1,5 +1,3 @@
-# AUTHOR: Chukwuemeka L. Nkama
-# Date: 1/27/2024
 
 git clone https://github.com/NVlabs/neuralangelo.git
 cd ./neuralangelo/

@@ -1,5 +1,3 @@
-# AUTHOR: Chukwuemeka L. Nkama
-# Date: 1/27/2024
 
 # Build Colmap image if it does not exist
 if [ -z "$(docker images -q colmap_img)" ]; then
